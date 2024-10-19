@@ -1,4 +1,4 @@
-# Water Me
+# 🪴 Water Me
 
 ## About this project
 
