@@ -1,2 +1,3 @@
-# pricealert
-Simple product URL web scraper and a notification system for on-going sales.
+# Water Me
+
+API and web-app for watering your plants automatically using a Raspberry Pi and, optionally, moisture sensors.   
